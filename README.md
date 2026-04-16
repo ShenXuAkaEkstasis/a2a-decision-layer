@@ -20,3 +20,4 @@ Run a simple decision process:
 
 ```bash
 python run_decision.py
+This repository serves as an initial executable representation of the A2A (AI-to-AI) framework.

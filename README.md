@@ -12,12 +12,9 @@ Instead of human-driven exploration and comparison:
 - Decisions are structured rather than discovered
 - Interaction shifts from clicks to outcomes
 
-## Quick Demo
+## Minimal Execution
 
 Set your own OPENAI_API_KEY before running the script.
 
-Run a simple decision process:
-
 ```bash
 python run_decision.py
-This repository serves as an initial executable representation of the A2A (AI-to-AI) framework.
